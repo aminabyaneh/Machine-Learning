@@ -1,2 +1,2 @@
 # Machine-Learning
-All other machine learning works and experiments.
+Machine learning codes and experiments.
